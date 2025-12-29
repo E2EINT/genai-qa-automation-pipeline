@@ -1,5 +1,5 @@
-# genai-qa-capstones
-Industry-grade GenAI and Agentic AI capstone projects for QA automation
+# genai-qa-project
+Industry-grade GenAI and Agentic AI  projects for QA automation
 
 ## 🧠 Architecture Overview — GenAI QA Test Case Generator
 
